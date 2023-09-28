@@ -3,6 +3,7 @@
 % bloodhound, Active directory enumeration
 
 ## start neo4j server
+## iniciar o servidor neo4j
 #plateform/linux #target/serve #cat/UTILS
 https://neo4j.com/docs/
 
