@@ -11,7 +11,7 @@ https://neo4j.com/docs/
 neo4j start
 ```
 
-## bloodhound inicia o IHM
+## bloodhound - inicia o IHM
 #plateform/linux #target/local #cat/RECON
 https://github.com/BloodHoundAD/BloodHound
 
