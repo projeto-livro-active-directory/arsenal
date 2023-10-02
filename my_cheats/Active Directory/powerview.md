@@ -2,7 +2,7 @@
 
 % ad, windows, powerview
 
-## load from remote
+## carrega a partir de um local remoto
 #plateform/windows #target/remote  #cat/RECON 
 
 https://github.com/PowerShellMafia/PowerSploit/
